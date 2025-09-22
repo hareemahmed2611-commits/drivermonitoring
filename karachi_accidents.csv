@@ -1,0 +1,501 @@
+timestamp,neighborhood,latitude,longitude,vehicle_type,primary_cause,severity,estimated_casualties,source,note
+1/30/2025 15:46,Clifton,24.899737,66.993408,Motorbike,Seatbelt not worn,Minor,0,Social Media (dashcam),Seatbelt reportedly not fastened.
+2/28/2025 14:35,University Road area,24.911815,67.192764,Motorbike,Overspeeding,Minor,0,Local News,
+10/18/2024 12:30,Gadap Town,24.841268,66.981904,Motorbike,Driver fatigue,Minor,0,Local News,
+4/25/2024 1:51,Lyari,24.986337,67.102092,Motorbike,Overtaking recklessly,Minor,0,Local News,
+5/7/2025 8:33,Rashid Minhas,24.822442,67.075107,Car,Overtaking recklessly,Injury,1,Social Media (dashcam),
+11/11/2024 12:00,Clifton,24.822927,66.954112,Car,Poor road condition,Serious Injury,5,Sindh Traffic Police report,
+6/28/2024 21:21,Keamari,24.879357,66.780406,Motorbike,Overspeeding,Injury,2,Emergency Services (Rescue 1122),
+7/17/2025 8:16,Malir,24.722007,66.942525,Car,Weather (rain),Injury,2,Local News,Wet road reported; visibility reduced.
+6/23/2024 22:43,Saddar,24.778974,67.04771,Motorbike,Violating signal,Injury,1,Social Media (dashcam),
+3/30/2024 13:36,Baldia,24.787358,66.840524,Motorbike,Overspeeding,Minor,0,Local News,
+5/24/2024 8:28,Saddar,24.977252,66.982907,Car,Weather (rain),Minor,0,Emergency Services (Rescue 1122),Wet road reported; visibility reduced.
+9/12/2024 9:37,Gulshan-e-Iqbal,24.865402,66.83903,Car,Driver fatigue,Minor,0,Social Media (dashcam),
+8/19/2024 18:35,Keamari,24.816449,67.023311,Car,Distracted (phone),Minor,0,Local News,Driver using phone at time of crash (reported).
+10/28/2023 14:18,Clifton,24.767921,67.055084,Motorbike,Mechanical failure,Injury,2,Local News,
+9/19/2024 13:04,M.A. Jinnah Road area,24.811949,66.974997,Bicycle,Overspeeding,Injury,1,Social Media (dashcam),
+11/12/2024 1:51,Landhi,24.811863,67.232273,Car,Distracted (phone),Minor,0,Emergency Services (Rescue 1122),Driver using phone at time of crash (reported).
+8/2/2025 7:04,Baldia,24.85892,66.883075,Motorbike,Violating signal,Serious Injury,3,Sindh Traffic Police report,
+10/20/2024 7:31,Gadap Town,24.925804,66.863499,Car,Distracted (phone),Minor,0,Sindh Traffic Police report,Driver using phone at time of crash (reported).
+11/6/2024 22:30,Lyari,24.876709,66.77484,Motorbike,Violating signal,Fatal,3,Local News,
+3/27/2024 2:10,DHA,24.753745,67.033623,Motorbike,Violating signal,Fatal,2,Local News,
+9/25/2024 3:54,North Nazimabad,24.919077,67.030564,Motorbike,Unknown,Minor,0,Local News,
+11/13/2024 21:12,Saddar,24.850748,66.973868,Car,Overtaking recklessly,Minor,0,Social Media (dashcam),
+12/24/2023 8:40,Landhi,24.741718,66.923619,Motorbike,Seatbelt not worn,Injury,1,Local News,Seatbelt reportedly not fastened.
+1/24/2025 8:36,Korangi,24.823149,67.136855,Car,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+11/13/2024 20:02,Gulshan-e-Iqbal,24.887489,66.798435,Car,Weather (rain),Serious Injury,2,Local News,Wet road reported; visibility reduced.
+2/14/2025 20:19,Jinnah Quarter,24.885927,66.96379,Car,Weather (rain),Serious Injury,1,Social Media (dashcam),Wet road reported; visibility reduced.
+2/4/2025 21:39,Clifton,24.805846,67.083401,Car,Overtaking recklessly,Serious Injury,1,Local News,
+2/16/2024 17:45,University Road area,24.94248,67.121754,Car,Distracted (phone),Minor,0,Local News,Driver using phone at time of crash (reported).
+9/8/2025 19:55,University Road area,24.792863,66.972895,Car,Driver fatigue,Serious Injury,1,Emergency Services (Rescue 1122),
+7/12/2025 13:50,I.I. Chundrigar Road area,24.886501,67.127065,Car,Mechanical failure,Serious Injury,2,Local News,
+7/21/2024 19:59,Shahrah-e-Faisal area,24.821666,66.987721,Car,Driver fatigue,Injury,2,Local News,
+5/9/2024 11:02,Saddar,24.771493,66.866455,Motorbike,Driver fatigue,Minor,0,Local News,
+10/30/2023 22:43,Keamari,24.925002,67.172749,Motorbike,Driver fatigue,Minor,0,Emergency Services (Rescue 1122),
+11/23/2023 5:23,DHA,24.854239,67.130424,Motorbike,Seatbelt not worn,Minor,0,Emergency Services (Rescue 1122),Seatbelt reportedly not fastened.
+12/7/2024 11:31,Malir,24.888931,66.932586,Motorbike,Mechanical failure,Injury,3,Social Media (dashcam),
+9/17/2025 17:11,Landhi,24.888912,67.194564,Car,Distracted (phone),Injury,2,Local News,Driver using phone at time of crash (reported).
+9/12/2025 14:09,DHA,24.857134,67.197757,Motorbike,Unknown,Fatal,1,Social Media (dashcam),
+10/18/2024 22:22,Baldia,24.7,67.108628,Rickshaw,Violating signal,Serious Injury,3,Local News,
+8/27/2024 8:21,University Road area,24.866964,66.974119,Motorbike,Driver fatigue,Minor,0,Sindh Traffic Police report,
+5/11/2024 12:49,Clifton,24.867341,66.771492,Car,Violating signal,Injury,1,Local News,
+1/3/2025 18:50,Saddar,24.842426,67.052854,Car,Poor road condition,Minor,0,Local News,
+8/27/2025 9:18,Korangi,24.978232,66.947808,Motorbike,Poor road condition,Minor,0,Local News,
+1/1/2024 14:39,Baldia,24.795321,66.949789,Motorbike,Driver fatigue,Injury,3,Local News,
+11/19/2023 10:38,Gulshan-e-Iqbal,24.933232,67.04945,Bus,Unknown,Injury,2,Local News,
+5/18/2024 10:21,Gulberg,24.817619,67.071592,Rickshaw,Seatbelt not worn,Injury,3,Local News,Seatbelt reportedly not fastened.
+5/19/2025 22:25,University Road area,24.867766,67.126237,Bicycle,Distracted (phone),Fatal,2,Sindh Traffic Police report,Driver using phone at time of crash (reported).
+6/4/2025 6:58,North Nazimabad,24.803836,66.970681,Car,Overtaking recklessly,Injury,2,Sindh Traffic Police report,
+7/24/2025 3:19,Malir,24.828631,66.834378,Car,Violating signal,Minor,0,Local News,
+9/21/2024 14:17,Malir,24.88369,67.041327,Truck,Weather (rain),Minor,0,Sindh Traffic Police report,Wet road reported; visibility reduced.
+7/29/2025 18:38,Malir,24.860409,66.98185,Car,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+11/14/2023 22:05,Baldia,24.74677,66.959523,Motorbike,Mechanical failure,Injury,3,Local News,
+10/13/2023 10:30,Clifton,24.832583,66.913727,Car,Poor road condition,Minor,0,Social Media (dashcam),
+6/16/2024 12:04,Landhi,24.847097,67.058486,Motorbike,Driver fatigue,Minor,0,Sindh Traffic Police report,
+2/16/2024 15:19,Baldia,25.010895,67.030949,Motorbike,Overspeeding,Minor,0,Sindh Traffic Police report,
+3/8/2025 11:56,Saddar,24.880604,67.001066,Car,Overtaking recklessly,Injury,3,Sindh Traffic Police report,
+4/3/2025 1:11,M.A. Jinnah Road area,24.706498,67.006818,Motorbike,Overtaking recklessly,Minor,0,Local News,
+12/29/2023 20:48,Saddar,24.864818,67.305589,Motorbike,Mechanical failure,Injury,1,Social Media (dashcam),
+5/12/2024 18:06,Rashid Minhas,24.844611,67.046186,Car,Seatbelt not worn,Minor,0,Social Media (dashcam),Seatbelt reportedly not fastened.
+2/11/2025 12:35,Landhi,24.857223,66.869759,Car,Seatbelt not worn,Minor,0,Sindh Traffic Police report,Seatbelt reportedly not fastened.
+6/1/2025 6:58,North Nazimabad,24.951426,67.100232,Car,Unknown,Minor,0,Sindh Traffic Police report,
+4/27/2025 10:13,Malir,24.923283,66.900874,Car,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+9/25/2024 19:11,DHA,24.972224,66.841778,Car,Unknown,Minor,0,Social Media (dashcam),
+10/9/2024 9:51,Lyari,24.906949,67.272855,Truck,Seatbelt not worn,Minor,0,Emergency Services (Rescue 1122),Seatbelt reportedly not fastened.
+10/28/2024 7:25,Shahrah-e-Faisal area,24.780757,66.942044,Motorbike,Violating signal,Minor,0,Sindh Traffic Police report,
+2/21/2025 12:33,M.A. Jinnah Road area,24.867972,66.949583,Bicycle,Weather (rain),Injury,3,Sindh Traffic Police report,Wet road reported; visibility reduced.
+8/18/2024 11:01,University Road area,24.735947,67.018228,Rickshaw,Weather (rain),Minor,0,Sindh Traffic Police report,Wet road reported; visibility reduced.
+7/5/2025 8:10,Baldia,24.775016,67.066831,Motorbike,Poor road condition,Minor,0,Social Media (dashcam),
+3/22/2024 12:16,University Road area,24.786446,67.195992,Car,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+3/6/2024 13:22,Landhi,24.79734,66.971353,Car,Seatbelt not worn,Serious Injury,4,Emergency Services (Rescue 1122),Seatbelt reportedly not fastened.
+12/18/2024 16:01,Lyari,24.925081,66.862296,Motorbike,Overtaking recklessly,Minor,0,Local News,
+8/14/2025 13:24,Jinnah Quarter,24.878197,67.166857,Motorbike,Poor road condition,Minor,0,Local News,
+6/9/2024 19:54,Rashid Minhas,24.731401,67.032156,Bus,Distracted (phone),Fatal,1,Emergency Services (Rescue 1122),Driver using phone at time of crash (reported).
+12/24/2024 17:40,Keamari,24.880791,67.103819,Car,Mechanical failure,Minor,0,Local News,
+10/31/2023 12:22,Saddar,24.761044,66.851545,Car,Mechanical failure,Minor,0,Emergency Services (Rescue 1122),
+8/14/2024 10:32,Baldia,24.901755,67.045638,Motorbike,Driver fatigue,Minor,0,Emergency Services (Rescue 1122),
+3/14/2024 19:48,Korangi,24.880039,67.051574,Rickshaw,Seatbelt not worn,Serious Injury,5,Local News,Seatbelt reportedly not fastened.
+12/29/2023 8:55,Keamari,24.805598,67.03787,Motorbike,Poor road condition,Injury,1,Social Media (dashcam),
+4/24/2025 22:20,Clifton,24.883446,66.924278,Bicycle,Violating signal,Injury,2,Social Media (dashcam),
+8/27/2025 6:50,Rashid Minhas,25.009262,67.06686,Rickshaw,Seatbelt not worn,Minor,0,Social Media (dashcam),Seatbelt reportedly not fastened.
+1/21/2025 18:38,Orangi Town,24.764696,67.088786,Truck,Unknown,Injury,2,Social Media (dashcam),
+2/16/2025 19:39,Gulberg,24.782025,67.10445,Motorbike,Overtaking recklessly,Minor,0,Local News,
+10/6/2024 18:01,Clifton,24.952688,66.911518,Bicycle,Weather (rain),Injury,2,Local News,Wet road reported; visibility reduced.
+10/31/2024 6:03,Baldia,24.93707,67.059534,Motorbike,Unknown,Minor,0,Sindh Traffic Police report,
+6/28/2025 5:56,Baldia,24.925765,67.237615,Car,Weather (rain),Injury,3,Local News,Wet road reported; visibility reduced.
+10/14/2023 7:00,I.I. Chundrigar Road area,24.840369,66.919552,Car,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+4/26/2024 5:12,Baldia,24.788839,66.912103,Motorbike,Seatbelt not worn,Minor,0,Social Media (dashcam),Seatbelt reportedly not fastened.
+10/5/2024 11:45,University Road area,24.853832,67.050938,Motorbike,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+5/7/2024 12:56,Malir,24.882135,67.109262,Motorbike,Poor road condition,Injury,2,Local News,
+11/7/2024 9:06,Gulberg,24.86104,67.184424,Pedestrian,Driver fatigue,Minor,0,Social Media (dashcam),
+4/19/2024 10:14,Orangi Town,24.838827,67.33642,Car,Seatbelt not worn,Minor,0,Social Media (dashcam),Seatbelt reportedly not fastened.
+5/6/2025 10:14,Saddar,24.910053,66.907141,Car,Unknown,Fatal,3,Emergency Services (Rescue 1122),
+6/29/2025 17:19,Saddar,24.774329,67.067897,Car,Distracted (phone),Minor,0,Social Media (dashcam),Driver using phone at time of crash (reported).
+12/29/2023 7:40,Baldia,24.842123,67.09568,Bicycle,Driver fatigue,Minor,0,Emergency Services (Rescue 1122),
+1/29/2025 10:45,I.I. Chundrigar Road area,24.897859,67.001261,Bus,Unknown,Minor,0,Local News,
+6/12/2024 15:13,North Nazimabad,24.792257,66.828218,Car,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+10/7/2024 22:49,DHA,24.824279,67.112768,Car,Unknown,Fatal,1,Emergency Services (Rescue 1122),
+12/23/2023 13:05,Gadap Town,24.877127,66.860511,Truck,Mechanical failure,Minor,0,Local News,
+7/21/2025 13:40,Orangi Town,24.873854,67.056238,Motorbike,Violating signal,Fatal,2,Social Media (dashcam),
+4/14/2024 13:21,DHA,24.789291,67.028447,Car,Driver fatigue,Minor,0,Local News,
+9/5/2024 21:59,Gadap Town,24.864657,66.872844,Car,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+7/20/2025 16:13,Shahrah-e-Faisal area,24.888623,67.077294,Motorbike,Poor road condition,Injury,3,Social Media (dashcam),
+6/7/2025 9:53,Saddar,24.946644,67.136456,Car,Seatbelt not worn,Injury,2,Sindh Traffic Police report,Seatbelt reportedly not fastened.
+11/16/2023 11:10,Korangi,24.749786,66.897461,Truck,Unknown,Injury,3,Emergency Services (Rescue 1122),
+8/28/2024 18:24,Orangi Town,24.901203,67.071654,Rickshaw,Driver fatigue,Minor,0,Local News,
+12/29/2024 12:12,Korangi,24.901204,67.35,Motorbike,Unknown,Minor,0,Local News,
+2/26/2025 17:49,Keamari,24.905671,67.146268,Pedestrian,Poor road condition,Injury,1,Local News,
+2/9/2025 11:01,North Nazimabad,24.93632,67.088167,Motorbike,Weather (rain),Fatal,4,Local News,Wet road reported; visibility reduced.
+6/6/2024 21:19,Landhi,24.834778,67.101076,Bus,Overtaking recklessly,Minor,0,Local News,
+2/17/2025 15:27,Rashid Minhas,24.798174,66.981582,Motorbike,Overtaking recklessly,Minor,0,Local News,
+5/14/2025 15:20,Lyari,24.821171,67.019825,Car,Seatbelt not worn,Minor,0,Social Media (dashcam),Seatbelt reportedly not fastened.
+10/13/2024 19:35,Korangi,25.045173,66.785928,Car,Distracted (phone),Fatal,4,Sindh Traffic Police report,Driver using phone at time of crash (reported).
+10/2/2024 11:40,Clifton,24.914901,66.816474,Bicycle,Unknown,Injury,3,Local News,
+11/22/2024 20:23,Lyari,24.822245,67.140674,Car,Violating signal,Minor,0,Local News,
+6/29/2025 8:16,Gulshan-e-Iqbal,24.865142,66.880671,Rickshaw,Poor road condition,Minor,0,Local News,
+7/1/2025 8:22,I.I. Chundrigar Road area,24.802776,67.091552,Car,Driver fatigue,Minor,0,Local News,
+12/30/2024 13:12,M.A. Jinnah Road area,24.801571,67.035975,Bus,Poor road condition,Injury,2,Local News,
+5/25/2025 20:07,M.A. Jinnah Road area,24.863646,66.931808,Truck,Poor road condition,Injury,3,Social Media (dashcam),
+2/15/2025 14:11,I.I. Chundrigar Road area,25.031516,67.08607,Car,Weather (rain),Minor,0,Social Media (dashcam),Wet road reported; visibility reduced.
+11/17/2024 21:16,Landhi,24.7,67.032375,Pedestrian,Seatbelt not worn,Injury,1,Sindh Traffic Police report,Seatbelt reportedly not fastened.
+8/6/2024 18:24,I.I. Chundrigar Road area,24.807057,67.112292,Car,Distracted (phone),Minor,0,Local News,Driver using phone at time of crash (reported).
+10/16/2024 3:23,Landhi,24.796598,66.996232,Bus,Weather (rain),Minor,0,Emergency Services (Rescue 1122),Wet road reported; visibility reduced.
+10/3/2023 22:05,Gulshan-e-Iqbal,24.900399,67.113891,Bus,Distracted (phone),Minor,0,Sindh Traffic Police report,Driver using phone at time of crash (reported).
+4/14/2024 20:22,Landhi,24.763976,66.96986,Motorbike,Overtaking recklessly,Serious Injury,5,Local News,
+5/24/2024 22:59,I.I. Chundrigar Road area,24.822004,66.9316,Motorbike,Seatbelt not worn,Injury,2,Emergency Services (Rescue 1122),Seatbelt reportedly not fastened.
+4/24/2025 8:44,Clifton,25.001236,67.058598,Car,Poor road condition,Serious Injury,1,Local News,
+11/4/2023 14:08,Orangi Town,24.759129,67.120143,Car,Distracted (phone),Minor,0,Local News,Driver using phone at time of crash (reported).
+3/4/2025 13:40,North Nazimabad,25.029772,67.133896,Car,Unknown,Serious Injury,5,Social Media (dashcam),
+10/12/2024 13:11,Keamari,24.73845,66.951892,Car,Poor road condition,Minor,0,Social Media (dashcam),
+8/20/2025 4:52,Orangi Town,24.961353,66.92508,Car,Overtaking recklessly,Fatal,3,Social Media (dashcam),
+8/16/2024 13:41,Baldia,24.895506,67.102956,Bus,Seatbelt not worn,Fatal,4,Local News,Seatbelt reportedly not fastened.
+7/14/2024 16:08,Orangi Town,24.785846,67.002857,Car,Mechanical failure,Minor,0,Social Media (dashcam),
+3/7/2025 16:13,Korangi,24.7,66.887073,Bus,Poor road condition,Injury,1,Social Media (dashcam),
+6/21/2024 15:44,Malir,24.839795,66.860266,Motorbike,Distracted (phone),Injury,3,Social Media (dashcam),Driver using phone at time of crash (reported).
+5/18/2024 22:55,Shahrah-e-Faisal area,24.990593,66.838383,Motorbike,Distracted (phone),Minor,0,Local News,Driver using phone at time of crash (reported).
+4/24/2025 14:03,Jinnah Quarter,24.824796,67.025689,Car,Driver fatigue,Serious Injury,3,Social Media (dashcam),
+8/31/2025 12:37,Baldia,24.975302,66.837697,Car,Weather (rain),Fatal,3,Social Media (dashcam),Wet road reported; visibility reduced.
+6/11/2024 2:06,Shahrah-e-Faisal area,24.953053,67.011228,Car,Seatbelt not worn,Serious Injury,4,Emergency Services (Rescue 1122),Seatbelt reportedly not fastened.
+6/7/2025 22:36,University Road area,24.781479,67.065452,Car,Mechanical failure,Minor,0,Social Media (dashcam),
+9/9/2024 18:49,Baldia,24.875925,66.937974,Truck,Overtaking recklessly,Minor,0,Local News,
+10/11/2023 10:29,Gadap Town,24.865584,66.963762,Rickshaw,Seatbelt not worn,Injury,3,Sindh Traffic Police report,Seatbelt reportedly not fastened.
+8/28/2025 8:12,Orangi Town,24.869081,67.089456,Car,Overspeeding,Fatal,3,Emergency Services (Rescue 1122),
+12/21/2023 21:38,University Road area,24.986881,66.861462,Car,Overtaking recklessly,Injury,3,Social Media (dashcam),
+11/14/2024 13:55,Jinnah Quarter,25.030643,66.775749,Bus,Violating signal,Serious Injury,5,Local News,
+4/26/2024 6:44,Korangi,24.847857,67.080598,Car,Weather (rain),Fatal,3,Local News,Wet road reported; visibility reduced.
+3/7/2025 14:00,Gulberg,24.882479,66.935276,Car,Poor road condition,Minor,0,Local News,
+7/11/2025 16:29,Shahrah-e-Faisal area,24.84335,66.95084,Motorbike,Unknown,Fatal,1,Sindh Traffic Police report,
+3/29/2024 4:27,Keamari,24.812851,67.111952,Car,Driver fatigue,Minor,0,Local News,
+7/28/2025 12:17,Malir,24.888561,66.926851,Truck,Unknown,Minor,0,Sindh Traffic Police report,
+1/12/2024 9:10,Gulshan-e-Iqbal,24.931968,67.046876,Truck,Violating signal,Injury,1,Local News,
+6/26/2024 6:07,Malir,24.925029,67.085555,Car,Poor road condition,Minor,0,Social Media (dashcam),
+11/3/2024 14:56,Clifton,24.79368,66.942778,Motorbike,Overtaking recklessly,Minor,0,Local News,
+10/17/2024 8:14,Malir,24.919783,67.083244,Motorbike,Driver fatigue,Minor,0,Social Media (dashcam),
+10/16/2023 14:41,Rashid Minhas,24.858328,67.024079,Motorbike,Weather (rain),Injury,2,Local News,Wet road reported; visibility reduced.
+11/23/2023 18:02,Landhi,24.962213,66.939011,Car,Poor road condition,Injury,3,Social Media (dashcam),
+5/31/2024 13:53,Rashid Minhas,24.903768,66.985737,Motorbike,Unknown,Minor,0,Sindh Traffic Police report,
+12/19/2023 20:49,University Road area,24.842586,67.141853,Car,Seatbelt not worn,Minor,0,Sindh Traffic Police report,Seatbelt reportedly not fastened.
+7/27/2024 16:52,Jinnah Quarter,24.926033,67.107621,Car,Overtaking recklessly,Injury,2,Emergency Services (Rescue 1122),
+3/8/2025 11:16,I.I. Chundrigar Road area,24.964438,67.01252,Car,Violating signal,Minor,0,Local News,
+4/17/2025 20:09,Gulberg,24.914556,66.972768,Motorbike,Unknown,Fatal,3,Social Media (dashcam),
+8/6/2024 17:01,Jinnah Quarter,24.885933,66.994383,Bicycle,Unknown,Minor,0,Local News,
+10/20/2024 17:51,I.I. Chundrigar Road area,24.86776,67.081419,Bus,Overtaking recklessly,Serious Injury,3,Local News,
+4/25/2024 8:53,Keamari,24.794542,67.261086,Truck,Driver fatigue,Fatal,1,Social Media (dashcam),
+2/13/2025 22:51,Baldia,24.779519,66.864297,Car,Poor road condition,Fatal,3,Local News,
+7/28/2025 15:24,Gulshan-e-Iqbal,24.952649,67.105,Car,Overspeeding,Minor,0,Social Media (dashcam),
+7/10/2024 12:46,North Nazimabad,24.90993,67.085401,Car,Overtaking recklessly,Injury,3,Social Media (dashcam),
+8/8/2025 9:41,Gadap Town,24.85902,66.902329,Motorbike,Poor road condition,Minor,0,Local News,
+1/5/2025 12:43,Shahrah-e-Faisal area,24.866064,66.928741,Car,Driver fatigue,Minor,0,Local News,
+4/29/2024 16:05,I.I. Chundrigar Road area,24.93801,66.992353,Car,Mechanical failure,Fatal,1,Local News,
+5/13/2024 2:51,Gulshan-e-Iqbal,24.79396,66.971434,Car,Violating signal,Minor,0,Social Media (dashcam),
+2/5/2024 11:11,Gulshan-e-Iqbal,24.893035,66.942353,Motorbike,Seatbelt not worn,Minor,0,Sindh Traffic Police report,Seatbelt reportedly not fastened.
+6/9/2025 13:39,Korangi,24.794222,67.039242,Car,Violating signal,Serious Injury,5,Local News,
+8/1/2024 2:59,Jinnah Quarter,24.879597,66.949167,Car,Overspeeding,Fatal,2,Sindh Traffic Police report,
+1/14/2025 18:41,Gulberg,24.822317,67.037846,Car,Violating signal,Minor,0,Social Media (dashcam),
+11/1/2024 20:22,Orangi Town,24.744153,66.841104,Car,Distracted (phone),Minor,0,Social Media (dashcam),Driver using phone at time of crash (reported).
+11/7/2024 21:11,Gulberg,24.802524,66.984386,Motorbike,Distracted (phone),Minor,0,Local News,Driver using phone at time of crash (reported).
+2/22/2024 9:24,DHA,24.884873,67.187043,Bicycle,Weather (rain),Minor,0,Social Media (dashcam),Wet road reported; visibility reduced.
+12/15/2024 21:04,Keamari,24.928613,66.990807,Bus,Overtaking recklessly,Minor,0,Local News,
+8/30/2024 11:21,Orangi Town,24.858479,66.889696,Motorbike,Overtaking recklessly,Minor,0,Local News,
+9/7/2024 12:17,Orangi Town,24.858519,66.975361,Motorbike,Violating signal,Injury,3,Local News,
+12/15/2024 18:07,University Road area,24.885817,66.910732,Car,Unknown,Injury,2,Social Media (dashcam),
+10/15/2024 10:09,Gulshan-e-Iqbal,24.901548,67.193929,Motorbike,Overtaking recklessly,Fatal,1,Social Media (dashcam),
+2/3/2024 18:43,Shahrah-e-Faisal area,24.851299,67.058205,Motorbike,Unknown,Minor,0,Local News,
+4/28/2024 17:31,Rashid Minhas,24.915212,66.961854,Truck,Unknown,Minor,0,Social Media (dashcam),
+6/7/2024 22:18,DHA,24.877927,67.011511,Car,Mechanical failure,Minor,0,Social Media (dashcam),
+2/12/2025 23:14,Gadap Town,24.867814,66.917239,Car,Unknown,Injury,2,Local News,
+2/12/2025 13:44,Rashid Minhas,24.861961,67.06976,Motorbike,Violating signal,Minor,0,Local News,
+5/28/2025 21:38,Landhi,24.976091,67.125112,Motorbike,Driver fatigue,Minor,0,Social Media (dashcam),
+10/20/2024 22:54,Gulberg,25.032255,66.917918,Car,Distracted (phone),Fatal,3,Emergency Services (Rescue 1122),Driver using phone at time of crash (reported).
+10/3/2024 16:44,Saddar,24.929786,67.032001,Pedestrian,Distracted (phone),Minor,0,Sindh Traffic Police report,Driver using phone at time of crash (reported).
+12/9/2023 13:24,M.A. Jinnah Road area,25.035184,66.913004,Motorbike,Unknown,Minor,0,Local News,
+1/26/2024 18:30,Gadap Town,24.792822,66.938073,Motorbike,Overspeeding,Minor,0,Social Media (dashcam),
+3/24/2024 11:53,Shahrah-e-Faisal area,24.7,66.946909,Truck,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+6/11/2025 1:50,Saddar,24.799269,67.028047,Motorbike,Unknown,Fatal,4,Sindh Traffic Police report,
+5/18/2025 9:17,Rashid Minhas,24.88734,67.235141,Bicycle,Seatbelt not worn,Serious Injury,2,Sindh Traffic Police report,Seatbelt reportedly not fastened.
+11/1/2023 12:42,I.I. Chundrigar Road area,24.936034,66.940772,Motorbike,Violating signal,Injury,3,Sindh Traffic Police report,
+4/30/2024 9:57,DHA,24.788127,67.06903,Car,Driver fatigue,Minor,0,Local News,
+8/29/2025 14:02,Gulberg,24.754381,67.229775,Car,Mechanical failure,Minor,0,Local News,
+11/24/2023 9:14,Gulberg,24.954355,66.953699,Car,Violating signal,Serious Injury,3,Sindh Traffic Police report,
+1/6/2024 21:02,Korangi,24.722949,67.172465,Rickshaw,Weather (rain),Injury,1,Sindh Traffic Police report,Wet road reported; visibility reduced.
+9/20/2024 8:50,Shahrah-e-Faisal area,24.850837,67.158538,Rickshaw,Overspeeding,Minor,0,Sindh Traffic Police report,
+11/21/2024 6:27,Gadap Town,24.732446,66.938075,Car,Poor road condition,Minor,0,Local News,
+3/25/2024 19:50,Gadap Town,24.860419,67.015638,Car,Weather (rain),Injury,1,Social Media (dashcam),Wet road reported; visibility reduced.
+12/11/2024 15:39,Malir,24.823995,67.084742,Car,Overspeeding,Injury,1,Social Media (dashcam),
+2/14/2024 11:47,DHA,24.77459,66.992914,Car,Driver fatigue,Minor,0,Sindh Traffic Police report,
+10/20/2024 6:46,University Road area,24.869624,67.071733,Car,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+7/7/2024 22:51,Baldia,24.916929,66.875043,Car,Violating signal,Minor,0,Social Media (dashcam),
+1/21/2025 16:33,Landhi,24.737271,67.163321,Car,Driver fatigue,Minor,0,Social Media (dashcam),
+6/27/2025 23:28,Shahrah-e-Faisal area,24.886585,66.920182,Motorbike,Distracted (phone),Minor,0,Sindh Traffic Police report,Driver using phone at time of crash (reported).
+9/11/2024 11:45,Korangi,24.984092,67.023881,Car,Seatbelt not worn,Serious Injury,3,Emergency Services (Rescue 1122),Seatbelt reportedly not fastened.
+10/26/2024 7:26,Rashid Minhas,24.954344,67.018102,Car,Seatbelt not worn,Minor,0,Sindh Traffic Police report,Seatbelt reportedly not fastened.
+10/29/2023 3:07,Landhi,25.02486,67.220641,Car,Overtaking recklessly,Minor,0,Local News,
+8/28/2024 13:17,Rashid Minhas,24.840083,67.126589,Bicycle,Weather (rain),Injury,2,Emergency Services (Rescue 1122),Wet road reported; visibility reduced.
+10/29/2024 8:00,Baldia,24.91163,67.174236,Motorbike,Violating signal,Minor,0,Emergency Services (Rescue 1122),
+2/9/2024 12:57,Clifton,24.782806,67.092326,Car,Poor road condition,Minor,0,Social Media (dashcam),
+8/17/2024 14:22,Gulberg,24.944674,66.798951,Car,Overtaking recklessly,Injury,2,Local News,
+5/28/2025 18:12,Korangi,24.765339,66.765292,Motorbike,Mechanical failure,Minor,0,Sindh Traffic Police report,
+3/2/2025 17:07,North Nazimabad,24.838447,67.096105,Car,Unknown,Injury,2,Local News,
+11/13/2023 17:19,Gulberg,24.980189,67.018891,Car,Unknown,Minor,0,Local News,
+9/5/2024 11:09,Gulberg,24.990289,66.844388,Car,Violating signal,Injury,3,Local News,
+5/23/2024 10:34,Clifton,24.723729,67.003334,Motorbike,Weather (rain),Minor,0,Emergency Services (Rescue 1122),Wet road reported; visibility reduced.
+12/22/2023 11:13,Baldia,24.890725,67.006077,Motorbike,Seatbelt not worn,Fatal,3,Social Media (dashcam),Seatbelt reportedly not fastened.
+10/7/2024 12:38,Saddar,24.7,66.999306,Car,Violating signal,Minor,0,Sindh Traffic Police report,
+9/1/2024 17:28,DHA,24.755642,67.090361,Motorbike,Violating signal,Minor,0,Local News,
+5/11/2024 23:35,North Nazimabad,24.889328,66.897214,Motorbike,Violating signal,Fatal,2,Local News,
+10/9/2024 17:14,Lyari,24.818891,66.882894,Motorbike,Overtaking recklessly,Minor,0,Emergency Services (Rescue 1122),
+12/31/2023 19:06,Gadap Town,24.854986,67.124617,Car,Mechanical failure,Fatal,4,Social Media (dashcam),
+5/11/2025 10:15,Jinnah Quarter,24.781142,67.070486,Car,Overtaking recklessly,Injury,2,Local News,
+10/27/2024 20:17,Gulberg,24.817579,66.914855,Bus,Driver fatigue,Injury,1,Sindh Traffic Police report,
+12/31/2023 21:20,Korangi,24.851438,66.885771,Motorbike,Poor road condition,Minor,0,Local News,
+3/25/2025 22:54,Malir,24.815708,66.866255,Rickshaw,Driver fatigue,Serious Injury,1,Local News,
+1/27/2025 6:19,University Road area,25.017178,67.014232,Car,Poor road condition,Injury,1,Social Media (dashcam),
+1/30/2024 16:36,Gulshan-e-Iqbal,24.804022,67.035678,Motorbike,Unknown,Minor,0,Emergency Services (Rescue 1122),
+10/23/2023 23:55,Lyari,24.851014,66.983484,Car,Unknown,Minor,0,Local News,
+12/9/2024 9:24,Jinnah Quarter,24.909133,67.100901,Motorbike,Driver fatigue,Minor,0,Emergency Services (Rescue 1122),
+10/1/2024 19:44,Rashid Minhas,24.81756,66.940902,Motorbike,Overspeeding,Minor,0,Local News,
+9/16/2024 17:49,Saddar,24.837996,66.733769,Motorbike,Overtaking recklessly,Serious Injury,3,Social Media (dashcam),
+7/21/2025 14:03,Gulberg,24.738785,67.174025,Car,Overtaking recklessly,Minor,0,Local News,
+3/27/2024 18:19,Shahrah-e-Faisal area,24.991597,66.980116,Car,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+7/16/2024 9:04,Gadap Town,24.906125,67.04735,Car,Distracted (phone),Serious Injury,5,Social Media (dashcam),Driver using phone at time of crash (reported).
+2/16/2024 10:45,North Nazimabad,25.05,67.144349,Pedestrian,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+10/10/2023 13:02,M.A. Jinnah Road area,24.849767,66.895335,Bicycle,Seatbelt not worn,Injury,1,Local News,Seatbelt reportedly not fastened.
+10/10/2024 9:29,Gadap Town,24.731484,67.034416,Car,Overspeeding,Serious Injury,4,Local News,
+4/14/2024 10:07,Gulberg,24.799492,66.83933,Car,Mechanical failure,Minor,0,Social Media (dashcam),
+6/29/2024 13:55,University Road area,24.808274,66.880214,Car,Driver fatigue,Minor,0,Social Media (dashcam),
+6/24/2025 0:55,Gadap Town,24.994971,67.115797,Car,Violating signal,Minor,0,Sindh Traffic Police report,
+6/11/2024 9:00,University Road area,24.859362,67.187593,Truck,Seatbelt not worn,Injury,2,Social Media (dashcam),Seatbelt reportedly not fastened.
+10/27/2023 18:30,Landhi,24.866189,66.906646,Motorbike,Distracted (phone),Injury,3,Local News,Driver using phone at time of crash (reported).
+9/14/2025 9:58,Gadap Town,24.98185,67.074669,Car,Unknown,Injury,2,Social Media (dashcam),
+10/20/2024 1:02,University Road area,24.77702,66.987159,Motorbike,Poor road condition,Minor,0,Local News,
+6/5/2024 6:45,Clifton,24.789951,66.844064,Motorbike,Overspeeding,Injury,2,Emergency Services (Rescue 1122),
+5/22/2025 2:23,Keamari,24.934094,67.23913,Motorbike,Unknown,Minor,0,Social Media (dashcam),
+4/4/2025 20:49,Rashid Minhas,24.748115,67.077556,Truck,Seatbelt not worn,Minor,0,Emergency Services (Rescue 1122),Seatbelt reportedly not fastened.
+12/16/2023 8:36,Saddar,24.807949,66.951545,Car,Mechanical failure,Minor,0,Social Media (dashcam),
+8/5/2024 17:59,M.A. Jinnah Road area,24.812608,66.906321,Bus,Overspeeding,Injury,3,Local News,
+5/31/2024 11:21,I.I. Chundrigar Road area,24.863882,66.910286,Car,Distracted (phone),Minor,0,Social Media (dashcam),Driver using phone at time of crash (reported).
+11/19/2024 7:16,Gulberg,24.881637,67.003971,Motorbike,Seatbelt not worn,Fatal,3,Social Media (dashcam),Seatbelt reportedly not fastened.
+3/14/2024 15:49,Orangi Town,24.840884,66.901092,Motorbike,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+9/16/2025 5:26,Baldia,24.813858,67.100647,Car,Driver fatigue,Minor,0,Emergency Services (Rescue 1122),
+6/18/2025 15:39,Gulberg,24.900073,66.892693,Car,Poor road condition,Fatal,1,Local News,
+8/30/2024 14:29,Baldia,24.867947,67.100166,Car,Driver fatigue,Minor,0,Social Media (dashcam),
+4/19/2024 16:23,Keamari,24.726448,67.075203,Car,Driver fatigue,Minor,0,Local News,
+12/8/2023 19:49,Jinnah Quarter,24.80699,67.078472,Motorbike,Violating signal,Injury,1,Local News,
+11/22/2024 11:18,North Nazimabad,24.798939,66.793414,Motorbike,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+5/2/2024 17:38,Korangi,24.729797,67.01577,Motorbike,Seatbelt not worn,Minor,0,Social Media (dashcam),Seatbelt reportedly not fastened.
+9/18/2025 12:46,Korangi,24.880778,66.901482,Car,Distracted (phone),Fatal,1,Emergency Services (Rescue 1122),Driver using phone at time of crash (reported).
+7/26/2024 8:30,I.I. Chundrigar Road area,24.911087,66.810618,Rickshaw,Poor road condition,Serious Injury,1,Local News,
+1/2/2025 12:41,Orangi Town,24.854714,66.864678,Pedestrian,Driver fatigue,Minor,0,Sindh Traffic Police report,
+1/4/2024 5:40,Shahrah-e-Faisal area,24.807853,67.015688,Car,Violating signal,Minor,0,Social Media (dashcam),
+2/6/2025 12:54,Baldia,24.791167,66.963853,Car,Overtaking recklessly,Injury,3,Social Media (dashcam),
+2/19/2024 20:47,Rashid Minhas,24.940503,66.940773,Motorbike,Violating signal,Minor,0,Local News,
+1/9/2024 21:11,Malir,24.926855,66.874435,Car,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+6/4/2024 18:39,Keamari,24.902384,67.182988,Car,Overtaking recklessly,Injury,1,Social Media (dashcam),
+9/17/2024 11:35,Orangi Town,24.7,66.914373,Car,Driver fatigue,Fatal,3,Social Media (dashcam),
+1/30/2025 2:26,Orangi Town,24.906166,66.985635,Motorbike,Seatbelt not worn,Fatal,4,Local News,Seatbelt reportedly not fastened.
+4/24/2025 18:47,Gadap Town,24.889692,66.937522,Car,Driver fatigue,Serious Injury,5,Sindh Traffic Police report,
+6/24/2025 6:21,Saddar,24.866927,66.991319,Motorbike,Unknown,Serious Injury,1,Social Media (dashcam),
+11/5/2024 5:51,DHA,24.953423,67.040531,Car,Driver fatigue,Serious Injury,2,Social Media (dashcam),
+1/16/2024 9:27,North Nazimabad,24.887008,66.960575,Bus,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+12/17/2024 22:39,I.I. Chundrigar Road area,24.820992,66.958093,Rickshaw,Weather (rain),Serious Injury,4,Local News,Wet road reported; visibility reduced.
+8/9/2024 16:04,Shahrah-e-Faisal area,24.891556,66.959482,Motorbike,Poor road condition,Injury,2,Local News,
+9/24/2023 8:12,Saddar,24.883182,67.259048,Car,Overtaking recklessly,Injury,3,Emergency Services (Rescue 1122),
+9/16/2025 21:53,DHA,24.92969,66.970877,Car,Mechanical failure,Minor,0,Local News,
+2/1/2025 6:53,Jinnah Quarter,24.956097,66.961031,Pedestrian,Mechanical failure,Minor,0,Emergency Services (Rescue 1122),
+7/11/2024 17:02,University Road area,24.7,66.88903,Motorbike,Overtaking recklessly,Minor,0,Emergency Services (Rescue 1122),
+7/23/2024 7:08,M.A. Jinnah Road area,24.710337,66.967818,Motorbike,Seatbelt not worn,Serious Injury,1,Emergency Services (Rescue 1122),Seatbelt reportedly not fastened.
+9/15/2024 15:01,University Road area,24.861473,67.211172,Motorbike,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+4/23/2024 21:29,Clifton,24.886154,66.983708,Truck,Mechanical failure,Injury,1,Local News,
+11/13/2023 6:23,Clifton,24.926352,66.744664,Car,Overspeeding,Minor,0,Local News,
+8/27/2024 22:51,Malir,24.878849,67.102504,Truck,Overspeeding,Minor,0,Emergency Services (Rescue 1122),
+3/21/2024 21:05,Keamari,24.741713,67.14725,Motorbike,Overtaking recklessly,Minor,0,Sindh Traffic Police report,
+2/15/2025 19:15,M.A. Jinnah Road area,24.88708,66.960165,Car,Poor road condition,Minor,0,Emergency Services (Rescue 1122),
+8/5/2025 7:03,North Nazimabad,24.910623,67.282483,Motorbike,Overspeeding,Fatal,4,Sindh Traffic Police report,
+5/26/2024 13:38,Jinnah Quarter,24.874549,67.039786,Car,Mechanical failure,Minor,0,Social Media (dashcam),
+3/27/2024 3:58,Orangi Town,24.823251,66.908019,Truck,Overspeeding,Injury,2,Social Media (dashcam),
+1/4/2024 11:40,Saddar,24.926427,66.90727,Motorbike,Weather (rain),Serious Injury,1,Social Media (dashcam),Wet road reported; visibility reduced.
+6/27/2025 11:15,Rashid Minhas,24.865725,66.952681,Bus,Seatbelt not worn,Serious Injury,5,Social Media (dashcam),Seatbelt reportedly not fastened.
+11/29/2024 10:43,Landhi,24.898318,67.050039,Bicycle,Overspeeding,Minor,0,Local News,
+4/19/2025 22:05,Clifton,24.943003,66.948798,Rickshaw,Unknown,Injury,2,Emergency Services (Rescue 1122),
+11/23/2024 19:30,Landhi,24.83841,66.892548,Car,Driver fatigue,Injury,2,Local News,
+10/24/2024 7:35,I.I. Chundrigar Road area,24.824457,67.055276,Car,Weather (rain),Injury,2,Emergency Services (Rescue 1122),Wet road reported; visibility reduced.
+7/5/2024 22:26,Landhi,24.920559,66.89934,Car,Seatbelt not worn,Injury,1,Local News,Seatbelt reportedly not fastened.
+9/17/2025 18:09,Jinnah Quarter,24.929568,67.172677,Car,Overtaking recklessly,Minor,0,Social Media (dashcam),
+3/30/2024 20:44,I.I. Chundrigar Road area,24.893075,67.235215,Car,Weather (rain),Fatal,4,Local News,Wet road reported; visibility reduced.
+4/13/2025 3:51,North Nazimabad,24.798097,66.860641,Motorbike,Weather (rain),Minor,0,Sindh Traffic Police report,Wet road reported; visibility reduced.
+2/1/2025 12:11,Korangi,24.717702,67.189525,Bus,Violating signal,Fatal,1,Sindh Traffic Police report,
+8/7/2024 7:32,Gulshan-e-Iqbal,24.912349,67.00333,Car,Distracted (phone),Minor,0,Social Media (dashcam),Driver using phone at time of crash (reported).
+7/7/2024 20:57,Korangi,24.882397,66.874941,Motorbike,Overspeeding,Minor,0,Social Media (dashcam),
+10/1/2023 18:55,Baldia,25.05,67.025507,Car,Mechanical failure,Serious Injury,2,Local News,
+12/5/2023 19:25,M.A. Jinnah Road area,24.868752,67.097092,Car,Unknown,Minor,0,Sindh Traffic Police report,
+4/16/2024 15:17,Rashid Minhas,24.898481,67.036866,Car,Mechanical failure,Minor,0,Local News,
+3/16/2025 13:25,Malir,24.796762,67.066576,Motorbike,Violating signal,Injury,3,Sindh Traffic Police report,
+12/3/2023 14:58,Rashid Minhas,25.010562,67.17145,Car,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+2/2/2024 20:49,Jinnah Quarter,24.987455,66.948654,Motorbike,Violating signal,Serious Injury,1,Local News,
+8/22/2025 0:56,Keamari,24.780832,66.994906,Car,Violating signal,Injury,2,Sindh Traffic Police report,
+12/2/2024 16:35,Korangi,24.864458,67.141303,Rickshaw,Overtaking recklessly,Minor,0,Local News,
+1/11/2024 23:55,Rashid Minhas,24.724603,67.193546,Car,Unknown,Minor,0,Sindh Traffic Police report,
+7/20/2024 6:24,University Road area,24.847359,66.958774,Car,Distracted (phone),Injury,3,Social Media (dashcam),Driver using phone at time of crash (reported).
+10/14/2024 23:27,Gulberg,24.779032,66.811417,Car,Seatbelt not worn,Serious Injury,3,Social Media (dashcam),Seatbelt reportedly not fastened.
+1/10/2025 19:16,Gadap Town,24.925854,67.018798,Bicycle,Overtaking recklessly,Minor,0,Local News,
+9/5/2024 22:51,I.I. Chundrigar Road area,24.756803,66.854591,Car,Mechanical failure,Minor,0,Social Media (dashcam),
+2/16/2025 19:49,Gadap Town,24.833137,67.210283,Truck,Violating signal,Minor,0,Local News,
+3/27/2025 18:37,Gulshan-e-Iqbal,24.839233,66.829623,Car,Violating signal,Minor,0,Emergency Services (Rescue 1122),
+9/1/2024 10:28,Gulberg,24.840341,66.977273,Car,Violating signal,Minor,0,Local News,
+11/25/2024 21:06,M.A. Jinnah Road area,24.7,67.003485,Car,Violating signal,Minor,0,Local News,
+12/29/2024 12:20,Landhi,24.841525,67.093545,Car,Mechanical failure,Minor,0,Local News,
+8/21/2025 22:23,University Road area,25.007916,67.145188,Motorbike,Distracted (phone),Injury,1,Local News,Driver using phone at time of crash (reported).
+5/12/2024 21:29,Baldia,24.838489,66.877217,Car,Distracted (phone),Minor,0,Local News,Driver using phone at time of crash (reported).
+10/2/2024 2:43,Gulberg,25.05,67.017106,Rickshaw,Weather (rain),Injury,1,Local News,Wet road reported; visibility reduced.
+1/5/2024 13:42,Landhi,24.861114,67.007105,Truck,Overtaking recklessly,Minor,0,Local News,
+6/22/2025 15:48,Gadap Town,24.875847,66.992677,Car,Unknown,Fatal,2,Local News,
+2/6/2024 23:23,Landhi,24.814107,66.944377,Motorbike,Weather (rain),Fatal,2,Local News,Wet road reported; visibility reduced.
+4/26/2024 17:10,Rashid Minhas,24.85738,66.944789,Car,Unknown,Minor,0,Emergency Services (Rescue 1122),
+2/8/2024 18:05,University Road area,24.802972,67.022772,Bicycle,Weather (rain),Fatal,2,Local News,Wet road reported; visibility reduced.
+5/5/2024 6:48,DHA,24.839602,67.190479,Motorbike,Distracted (phone),Injury,1,Local News,Driver using phone at time of crash (reported).
+1/19/2024 17:26,Jinnah Quarter,24.7,67.140981,Car,Unknown,Minor,0,Local News,
+10/19/2024 11:56,Jinnah Quarter,24.959687,66.761193,Truck,Overtaking recklessly,Injury,3,Social Media (dashcam),
+9/1/2025 19:40,Malir,24.832585,66.965427,Car,Unknown,Minor,0,Emergency Services (Rescue 1122),
+3/1/2025 19:59,Landhi,24.747399,66.916662,Car,Violating signal,Minor,0,Social Media (dashcam),
+10/28/2024 18:05,Keamari,24.771154,67.220272,Car,Mechanical failure,Minor,0,Social Media (dashcam),
+3/11/2025 6:41,M.A. Jinnah Road area,24.934854,67.162587,Car,Overspeeding,Minor,0,Local News,
+9/6/2025 0:14,Clifton,24.917734,66.874514,Car,Overtaking recklessly,Minor,0,Local News,
+10/1/2024 8:23,Shahrah-e-Faisal area,24.818038,67.068725,Car,Poor road condition,Minor,0,Social Media (dashcam),
+10/9/2023 13:01,Landhi,24.76223,67.09556,Motorbike,Distracted (phone),Fatal,2,Social Media (dashcam),Driver using phone at time of crash (reported).
+11/23/2024 16:21,North Nazimabad,24.840774,66.965022,Motorbike,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+2/12/2024 6:25,North Nazimabad,24.916877,67.063312,Car,Unknown,Serious Injury,4,Social Media (dashcam),
+7/20/2024 10:25,Saddar,24.831123,67.14912,Truck,Violating signal,Injury,3,Local News,
+6/1/2024 8:47,Baldia,24.773515,67.083912,Motorbike,Overtaking recklessly,Injury,3,Local News,
+12/19/2023 17:26,Gulberg,24.907448,66.972854,Bus,Unknown,Minor,0,Social Media (dashcam),
+6/4/2025 20:30,Orangi Town,24.886091,66.859866,Motorbike,Overtaking recklessly,Minor,0,Local News,
+2/11/2024 9:11,M.A. Jinnah Road area,24.933922,66.987812,Car,Distracted (phone),Injury,2,Local News,Driver using phone at time of crash (reported).
+1/27/2025 14:36,University Road area,24.818182,67.135881,Motorbike,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+7/6/2025 7:44,Gulberg,24.803653,66.840985,Motorbike,Seatbelt not worn,Serious Injury,5,Social Media (dashcam),Seatbelt reportedly not fastened.
+10/10/2024 10:54,Jinnah Quarter,24.73547,67.082721,Car,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+10/15/2023 23:17,Malir,24.757566,67.220575,Car,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+9/11/2024 19:05,I.I. Chundrigar Road area,24.7,67.213575,Motorbike,Poor road condition,Injury,2,Social Media (dashcam),
+5/1/2025 19:31,Korangi,24.876881,66.998394,Motorbike,Mechanical failure,Minor,0,Sindh Traffic Police report,
+4/27/2025 14:05,Malir,24.816406,67.057896,Bus,Overspeeding,Minor,0,Local News,
+6/17/2025 8:55,DHA,24.856989,67.142396,Bus,Violating signal,Injury,1,Local News,
+4/16/2025 22:06,Keamari,24.869138,67.028036,Bus,Unknown,Injury,1,Social Media (dashcam),
+5/23/2025 14:39,Saddar,24.830911,67.003167,Truck,Unknown,Minor,0,Local News,
+11/13/2024 11:22,North Nazimabad,24.884624,66.80478,Bicycle,Poor road condition,Minor,0,Local News,
+7/19/2025 10:35,M.A. Jinnah Road area,24.752145,67.099192,Car,Mechanical failure,Serious Injury,3,Sindh Traffic Police report,
+12/29/2023 13:22,Gulshan-e-Iqbal,24.873669,66.987922,Car,Overtaking recklessly,Serious Injury,4,Local News,
+12/13/2024 11:59,Baldia,24.861475,67.05171,Car,Violating signal,Injury,1,Local News,
+4/26/2025 9:19,Baldia,24.816819,66.916603,Motorbike,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+5/15/2025 6:55,DHA,24.875668,66.892595,Motorbike,Overtaking recklessly,Serious Injury,5,Local News,
+8/20/2024 17:07,Saddar,24.89266,66.80569,Car,Poor road condition,Minor,0,Social Media (dashcam),
+12/4/2024 17:39,I.I. Chundrigar Road area,24.942332,67.066712,Rickshaw,Overspeeding,Minor,0,Social Media (dashcam),
+7/2/2025 21:15,Shahrah-e-Faisal area,24.880482,67.127923,Car,Distracted (phone),Minor,0,Local News,Driver using phone at time of crash (reported).
+8/19/2024 6:45,Saddar,24.993238,67.131724,Bus,Poor road condition,Minor,0,Emergency Services (Rescue 1122),
+4/21/2024 20:05,DHA,24.71273,66.856451,Car,Overtaking recklessly,Injury,3,Local News,
+7/25/2024 20:20,Orangi Town,24.810015,67.013131,Car,Violating signal,Injury,1,Local News,
+11/21/2023 12:52,Gulshan-e-Iqbal,24.901413,66.922911,Motorbike,Weather (rain),Minor,0,Social Media (dashcam),Wet road reported; visibility reduced.
+6/17/2025 16:00,Clifton,24.874941,66.919354,Motorbike,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+4/11/2025 14:25,Clifton,24.811079,66.841201,Car,Poor road condition,Minor,0,Sindh Traffic Police report,
+4/28/2025 23:52,Gulshan-e-Iqbal,24.786141,66.847798,Motorbike,Overspeeding,Injury,1,Local News,
+4/5/2025 18:06,Gulshan-e-Iqbal,24.78193,67.136437,Motorbike,Weather (rain),Serious Injury,1,Sindh Traffic Police report,Wet road reported; visibility reduced.
+1/8/2024 18:02,Clifton,24.784048,67.325886,Car,Mechanical failure,Minor,0,Local News,
+4/24/2024 10:03,University Road area,24.899465,67.03218,Truck,Overspeeding,Serious Injury,3,Local News,
+1/5/2025 9:56,M.A. Jinnah Road area,24.791331,67.094037,Motorbike,Poor road condition,Injury,1,Local News,
+12/18/2023 13:41,Malir,24.813949,67.024641,Motorbike,Violating signal,Minor,0,Emergency Services (Rescue 1122),
+6/28/2024 11:21,Landhi,25.05,66.998473,Car,Unknown,Minor,0,Social Media (dashcam),
+2/3/2024 4:40,DHA,24.951942,66.925619,Motorbike,Overspeeding,Minor,0,Local News,
+11/7/2023 23:13,Rashid Minhas,24.857201,67.222496,Motorbike,Driver fatigue,Injury,2,Social Media (dashcam),
+11/25/2023 15:33,Gadap Town,24.809843,67.227494,Car,Poor road condition,Minor,0,Emergency Services (Rescue 1122),
+6/10/2025 15:19,Gulshan-e-Iqbal,24.91662,66.942504,Car,Violating signal,Minor,0,Local News,
+7/10/2025 11:18,Malir,24.910593,67.126707,Car,Mechanical failure,Minor,0,Social Media (dashcam),
+11/3/2023 17:48,Orangi Town,24.909745,66.821573,Car,Distracted (phone),Injury,1,Local News,Driver using phone at time of crash (reported).
+6/17/2024 7:03,M.A. Jinnah Road area,24.801829,66.980298,Car,Distracted (phone),Injury,2,Social Media (dashcam),Driver using phone at time of crash (reported).
+12/22/2023 16:44,Lyari,24.854045,67.084481,Truck,Poor road condition,Minor,0,Local News,
+12/12/2024 21:33,DHA,24.874216,66.849759,Motorbike,Overtaking recklessly,Minor,0,Sindh Traffic Police report,
+1/29/2024 14:53,Gulberg,24.890416,67.08327,Car,Violating signal,Serious Injury,1,Local News,
+10/21/2024 20:11,Lyari,24.904783,67.139694,Car,Overtaking recklessly,Minor,0,Local News,
+9/14/2025 6:04,Korangi,24.926714,67.065102,Car,Seatbelt not worn,Minor,0,Social Media (dashcam),Seatbelt reportedly not fastened.
+4/19/2024 16:36,DHA,24.854387,66.810685,Car,Overspeeding,Minor,0,Sindh Traffic Police report,
+10/27/2023 16:10,Rashid Minhas,24.894369,67.034923,Bus,Poor road condition,Injury,2,Local News,
+11/24/2024 14:22,Shahrah-e-Faisal area,24.881726,66.85679,Car,Poor road condition,Injury,2,Social Media (dashcam),
+3/28/2024 10:05,Shahrah-e-Faisal area,24.773515,67.136378,Motorbike,Weather (rain),Fatal,2,Social Media (dashcam),Wet road reported; visibility reduced.
+11/19/2024 12:36,Malir,24.856836,67.09178,Car,Mechanical failure,Minor,0,Social Media (dashcam),
+1/27/2025 22:48,Lyari,24.862265,67.013571,Car,Mechanical failure,Serious Injury,3,Local News,
+11/6/2024 12:27,Malir,24.935063,66.948075,Motorbike,Overspeeding,Fatal,2,Social Media (dashcam),
+12/3/2023 6:08,Korangi,24.86769,66.954527,Rickshaw,Driver fatigue,Minor,0,Sindh Traffic Police report,
+9/12/2024 2:16,DHA,24.82524,66.972899,Motorbike,Mechanical failure,Minor,0,Social Media (dashcam),
+8/24/2024 20:40,Gulshan-e-Iqbal,24.877771,66.95255,Car,Overtaking recklessly,Fatal,4,Social Media (dashcam),
+4/15/2025 14:58,Baldia,24.96046,66.902647,Car,Seatbelt not worn,Minor,0,Sindh Traffic Police report,Seatbelt reportedly not fastened.
+12/15/2023 15:24,Gulshan-e-Iqbal,24.84505,66.957232,Car,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+6/26/2024 6:57,Saddar,24.975758,67.033587,Car,Poor road condition,Serious Injury,1,Local News,
+3/7/2025 20:59,Orangi Town,24.942548,66.831733,Car,Overtaking recklessly,Minor,0,Social Media (dashcam),
+6/24/2024 7:31,Rashid Minhas,24.881364,67.116756,Motorbike,Poor road condition,Serious Injury,2,Local News,
+8/1/2024 2:25,University Road area,24.866583,67.137858,Car,Violating signal,Serious Injury,2,Local News,
+11/8/2023 21:35,Malir,24.818617,67.179122,Car,Mechanical failure,Minor,0,Social Media (dashcam),
+2/3/2025 17:47,DHA,25.043912,66.966459,Rickshaw,Violating signal,Minor,0,Local News,
+8/22/2025 19:44,Gulshan-e-Iqbal,24.82436,67.184406,Rickshaw,Overtaking recklessly,Minor,0,Emergency Services (Rescue 1122),
+10/31/2023 7:57,North Nazimabad,24.986366,66.947257,Truck,Mechanical failure,Minor,0,Local News,
+8/18/2024 9:35,North Nazimabad,24.826385,66.976186,Car,Distracted (phone),Minor,0,Local News,Driver using phone at time of crash (reported).
+1/15/2024 10:41,Korangi,24.752444,66.899762,Motorbike,Weather (rain),Minor,0,Social Media (dashcam),Wet road reported; visibility reduced.
+11/8/2023 8:43,DHA,24.779669,66.917864,Car,Mechanical failure,Minor,0,Sindh Traffic Police report,
+11/3/2024 9:53,Malir,24.857225,67.038106,Pedestrian,Overtaking recklessly,Minor,0,Sindh Traffic Police report,
+6/15/2024 5:15,M.A. Jinnah Road area,24.98404,66.890198,Car,Distracted (phone),Minor,0,Social Media (dashcam),Driver using phone at time of crash (reported).
+10/14/2023 18:15,Baldia,24.938746,66.984321,Truck,Weather (rain),Minor,0,Sindh Traffic Police report,Wet road reported; visibility reduced.
+3/20/2024 19:00,North Nazimabad,24.856043,67.090978,Car,Seatbelt not worn,Minor,0,Sindh Traffic Police report,Seatbelt reportedly not fastened.
+9/3/2025 10:57,Korangi,24.770182,67.055889,Motorbike,Mechanical failure,Minor,0,Sindh Traffic Police report,
+7/9/2025 12:03,North Nazimabad,24.873316,67.069094,Car,Overtaking recklessly,Serious Injury,3,Emergency Services (Rescue 1122),
+10/13/2023 21:48,Gulberg,24.883133,67.304636,Motorbike,Seatbelt not worn,Serious Injury,4,Social Media (dashcam),Seatbelt reportedly not fastened.
+2/5/2024 8:36,I.I. Chundrigar Road area,24.808981,66.94628,Car,Seatbelt not worn,Injury,1,Social Media (dashcam),Seatbelt reportedly not fastened.
+9/22/2023 12:44,Landhi,24.810149,66.943343,Truck,Overtaking recklessly,Injury,2,Local News,
+1/14/2024 17:33,Keamari,24.809009,67.152682,Truck,Driver fatigue,Serious Injury,1,Local News,
+2/17/2025 7:10,Rashid Minhas,24.97364,66.94151,Car,Overtaking recklessly,Minor,0,Local News,
+8/26/2024 7:49,I.I. Chundrigar Road area,24.793412,67.06657,Car,Driver fatigue,Injury,3,Sindh Traffic Police report,
+3/13/2024 9:26,Keamari,24.815822,67.085952,Car,Poor road condition,Minor,0,Social Media (dashcam),
+3/20/2025 6:23,Keamari,24.876234,66.828111,Bus,Unknown,Minor,0,Social Media (dashcam),
+9/6/2025 9:23,Gadap Town,24.9838,67.225505,Motorbike,Violating signal,Fatal,2,Local News,
+11/21/2023 10:25,Malir,24.810977,66.963476,Pedestrian,Distracted (phone),Injury,1,Sindh Traffic Police report,Driver using phone at time of crash (reported).
+2/23/2025 10:09,Landhi,24.882869,67.050135,Car,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+4/8/2024 8:27,Clifton,24.912684,67.251225,Car,Weather (rain),Injury,1,Sindh Traffic Police report,Wet road reported; visibility reduced.
+10/8/2024 23:42,Gulberg,24.845844,66.914204,Car,Weather (rain),Injury,3,Social Media (dashcam),Wet road reported; visibility reduced.
+3/8/2025 17:35,Malir,24.749654,66.922288,Motorbike,Overspeeding,Minor,0,Local News,
+12/12/2023 8:12,DHA,24.85735,67.225347,Car,Mechanical failure,Minor,0,Local News,
+8/19/2025 14:14,DHA,24.818591,67.036855,Motorbike,Unknown,Serious Injury,1,Local News,
+2/10/2025 16:38,North Nazimabad,24.858686,67.152607,Car,Violating signal,Minor,0,Emergency Services (Rescue 1122),
+8/4/2024 21:31,University Road area,25.05,66.946296,Motorbike,Poor road condition,Minor,0,Local News,
+12/9/2024 14:33,Gulshan-e-Iqbal,24.820845,67.135299,Car,Mechanical failure,Minor,0,Sindh Traffic Police report,
+1/19/2025 12:32,Gadap Town,24.914551,67.231605,Car,Overspeeding,Minor,0,Social Media (dashcam),
+11/24/2023 15:23,I.I. Chundrigar Road area,24.906714,66.966885,Car,Mechanical failure,Minor,0,Sindh Traffic Police report,
+4/14/2024 20:02,DHA,24.907252,67.143044,Car,Mechanical failure,Minor,0,Local News,
+4/13/2024 12:11,Shahrah-e-Faisal area,24.925639,67.070873,Car,Poor road condition,Injury,1,Sindh Traffic Police report,
+2/21/2025 10:30,Clifton,24.945334,67.150315,Motorbike,Driver fatigue,Minor,0,Sindh Traffic Police report,
+3/16/2024 17:08,University Road area,24.970573,67.087845,Bus,Driver fatigue,Minor,0,Social Media (dashcam),
+7/26/2025 8:04,I.I. Chundrigar Road area,24.846631,67.027606,Motorbike,Violating signal,Minor,0,Sindh Traffic Police report,
+10/18/2023 21:23,M.A. Jinnah Road area,24.956521,66.911968,Car,Weather (rain),Minor,0,Emergency Services (Rescue 1122),Wet road reported; visibility reduced.
+3/4/2024 13:55,Saddar,24.889494,66.962799,Car,Violating signal,Fatal,4,Local News,
+6/21/2025 21:42,Gulshan-e-Iqbal,24.8623,67.163414,Car,Violating signal,Minor,0,Social Media (dashcam),
+11/23/2024 19:02,Landhi,24.875288,67.015572,Motorbike,Overspeeding,Injury,3,Social Media (dashcam),
+5/21/2025 13:40,Gulshan-e-Iqbal,24.751212,67.09955,Motorbike,Unknown,Injury,1,Emergency Services (Rescue 1122),
+12/2/2024 1:11,Orangi Town,24.911639,67.269591,Bus,Poor road condition,Minor,0,Local News,
+1/6/2025 9:52,Baldia,24.835378,67.036298,Car,Unknown,Injury,2,Local News,
+8/12/2025 22:51,Landhi,24.879951,67.199294,Car,Weather (rain),Fatal,3,Local News,Wet road reported; visibility reduced.
+6/17/2025 21:10,Orangi Town,24.852376,67.043483,Car,Weather (rain),Serious Injury,1,Emergency Services (Rescue 1122),Wet road reported; visibility reduced.
+3/17/2024 18:26,Shahrah-e-Faisal area,24.908632,67.032393,Car,Mechanical failure,Injury,1,Local News,
+3/4/2024 4:36,Jinnah Quarter,24.824285,67.033291,Truck,Overtaking recklessly,Serious Injury,5,Sindh Traffic Police report,
+11/11/2023 15:11,Rashid Minhas,24.945891,66.886818,Truck,Driver fatigue,Serious Injury,1,Local News,
+8/1/2025 18:32,Saddar,24.870638,66.925986,Car,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+2/23/2024 15:40,Baldia,24.955604,66.827218,Truck,Driver fatigue,Minor,0,Emergency Services (Rescue 1122),
+3/4/2025 12:00,I.I. Chundrigar Road area,24.815286,67.055265,Car,Weather (rain),Injury,2,Local News,Wet road reported; visibility reduced.
+7/3/2025 14:59,Baldia,24.985242,67.00211,Car,Mechanical failure,Minor,0,Sindh Traffic Police report,
+5/19/2025 17:05,Saddar,24.815584,67.235739,Motorbike,Seatbelt not worn,Minor,0,Local News,Seatbelt reportedly not fastened.
+10/7/2023 13:48,Lyari,24.744159,66.746143,Rickshaw,Distracted (phone),Injury,1,Local News,Driver using phone at time of crash (reported).
+1/6/2025 12:21,Orangi Town,24.895201,66.949753,Car,Mechanical failure,Serious Injury,4,Local News,
+9/18/2024 11:52,Orangi Town,24.778301,67.095003,Motorbike,Overspeeding,Minor,0,Social Media (dashcam),
+7/7/2025 23:57,University Road area,24.879504,66.942311,Car,Violating signal,Minor,0,Local News,
+4/23/2024 18:01,Landhi,24.757576,67.114695,Car,Poor road condition,Minor,0,Social Media (dashcam),
+3/26/2024 15:33,Korangi,24.912016,66.998099,Motorbike,Distracted (phone),Injury,3,Local News,Driver using phone at time of crash (reported).
+5/8/2024 14:28,Baldia,25.007731,66.88159,Car,Overspeeding,Injury,3,Sindh Traffic Police report,
+6/14/2024 13:05,Malir,24.737958,66.926971,Rickshaw,Overtaking recklessly,Minor,0,Sindh Traffic Police report,
+7/5/2025 22:38,University Road area,24.856353,67.039201,Car,Weather (rain),Minor,0,Local News,Wet road reported; visibility reduced.
+6/10/2025 20:37,University Road area,24.840701,67.052247,Rickshaw,Overtaking recklessly,Injury,1,Local News,
+4/22/2025 1:04,Jinnah Quarter,24.759877,67.183252,Car,Unknown,Minor,0,Sindh Traffic Police report,
+9/21/2024 11:26,Korangi,24.853428,67.144075,Motorbike,Seatbelt not worn,Minor,0,Sindh Traffic Police report,Seatbelt reportedly not fastened.
+7/14/2024 10:49,M.A. Jinnah Road area,24.887418,67.06481,Car,Distracted (phone),Minor,0,Local News,Driver using phone at time of crash (reported).
+8/4/2024 19:53,Keamari,24.905581,67.063725,Car,Distracted (phone),Injury,2,Local News,Driver using phone at time of crash (reported).
+2/6/2024 8:14,Landhi,24.911418,67.169498,Car,Poor road condition,Minor,0,Sindh Traffic Police report,
+12/12/2024 14:37,North Nazimabad,24.875722,67.09508,Truck,Violating signal,Minor,0,Local News,
+8/20/2024 12:46,Rashid Minhas,24.852821,67.182814,Bicycle,Mechanical failure,Minor,0,Social Media (dashcam),
+4/11/2025 12:28,Gulberg,24.805889,67.226113,Rickshaw,Driver fatigue,Minor,0,Social Media (dashcam),
+1/20/2025 18:17,Malir,24.856787,66.838307,Motorbike,Overtaking recklessly,Minor,0,Local News,
+10/16/2024 22:52,Keamari,24.870248,66.928274,Car,Overspeeding,Minor,0,Local News,
+4/9/2025 7:46,M.A. Jinnah Road area,24.927251,66.931685,Car,Distracted (phone),Minor,0,Emergency Services (Rescue 1122),Driver using phone at time of crash (reported).
+6/27/2024 0:55,North Nazimabad,24.824305,66.783255,Car,Seatbelt not worn,Injury,1,Local News,Seatbelt reportedly not fastened.
+10/9/2023 9:29,Clifton,24.823815,66.719134,Motorbike,Overspeeding,Minor,0,Social Media (dashcam),
+5/13/2025 7:08,Gadap Town,24.733288,67.10125,Motorbike,Overspeeding,Minor,0,Local News,
+9/1/2024 15:37,Baldia,24.922864,67.061055,Motorbike,Seatbelt not worn,Injury,3,Local News,Seatbelt reportedly not fastened.
+8/13/2024 21:36,Clifton,24.782642,67.004275,Motorbike,Distracted (phone),Minor,0,Sindh Traffic Police report,Driver using phone at time of crash (reported).
+10/23/2024 8:37,Gadap Town,24.859712,66.870996,Car,Violating signal,Minor,0,Social Media (dashcam),
+5/18/2025 6:12,Baldia,24.980272,67.115283,Car,Mechanical failure,Minor,0,Local News,
+10/11/2024 12:43,Saddar,24.842323,67.013226,Car,Overspeeding,Minor,0,Local News,
+12/16/2023 18:34,Keamari,24.876671,66.764992,Car,Violating signal,Injury,1,Social Media (dashcam),
+12/9/2023 16:11,Baldia,24.840226,66.928162,Motorbike,Poor road condition,Minor,0,Local News,
+6/14/2025 14:44,North Nazimabad,24.77987,66.976268,Bus,Overtaking recklessly,Serious Injury,3,Local News,
+12/21/2023 19:33,Korangi,25.003815,67.086901,Bus,Distracted (phone),Minor,0,Sindh Traffic Police report,Driver using phone at time of crash (reported).
+1/16/2025 18:19,DHA,24.814306,67.07871,Truck,Distracted (phone),Minor,0,Local News,Driver using phone at time of crash (reported).
